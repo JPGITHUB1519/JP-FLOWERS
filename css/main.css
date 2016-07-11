@@ -1,0 +1,149 @@
+
+body
+{
+	font-family: 'Lora', serif;
+	
+}
+
+img
+{
+	max-width : 100%;
+}
+
+.quitar-float
+{
+	float: none;
+}
+
+.espacito-izquierda
+
+{
+	margin-left: 10px;
+}
+
+.espacio-arriba
+{
+	margin-top: 40px;
+}
+
+.espacito-arriba
+{
+	margin-top: 20px;
+}
+
+.grande
+{
+	font-size : 50px;
+}
+
+.mediano
+{
+	font-size: 20px;
+}
+
+.links-mediano
+{
+	font-size : 20px;
+}
+
+.links-grande
+{
+	font-size: 30px;
+}
+
+
+
+
+.fuente-great
+{
+	font-family: 'Great Vibes', cursive;
+}
+
+.fuente-lora
+{
+	font-family: 'Lora', serif;
+
+}
+
+.color-principal
+{
+	color: #F12FBB;
+}
+
+.color-morado
+{
+	color : #8e44ad;
+}
+
+.color-precio
+{
+	color : #FA1030;
+}
+
+.color-menu
+{
+background: #fcecfc; /* Old browsers */
+background: -moz-linear-gradient(top,  #fcecfc 0%, #fba6e1 50%, #fd89d7 51%, #ff7cd8 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #fcecfc 0%,#fba6e1 50%,#fd89d7 51%,#ff7cd8 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #fcecfc 0%,#fba6e1 50%,#fd89d7 51%,#ff7cd8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcecfc', endColorstr='#ff7cd8',GradientType=0 ); /* IE6-9 */
+
+}
+
+
+
+.color-links
+{
+	color: #000000;
+}
+
+.padding-largo
+{
+	padding: 20px;
+}
+
+
+
+
+.quitar-lista
+{
+	list-style : none;
+}
+
+.inline-block
+{
+	float : none;
+	display : inline-block;
+	margin-right: -4px;
+}
+
+
+#precio
+{
+	
+	background: #f2f9fe; /* Old browsers */
+	background: -moz-linear-gradient(top,  #f2f9fe 0%, #d6f0fd 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  #f2f9fe 0%,#d6f0fd 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  #f2f9fe 0%,#d6f0fd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f9fe', endColorstr='#d6f0fd',GradientType=0 ); /* IE6-9 */
+
+}
+
+
+.zoom:hover
+{
+	-moz-box-shadow: 0 0 30px #ccc;
+	-webkit-box-shadow: 0 0 30px #ccc;
+	 box-shadow: 0 0 30px #ccc; 
+}
+
+.retraso-1
+{
+	-webkit-animation-delay : 1s;
+	-moz-animation-delay : 1s;
+	animation-delay : 1s;
+
+
+}
+
+
